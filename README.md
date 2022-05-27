@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Rahul Sannigrahi</h1>
-<h3 align="center">A passionate Competitive Programmer👨‍💻. A passionate web developer🖥️.</h3>
+<h3 align="center">A dedicated Competitive Programmer👨‍💻. A passionate web developer🖥️.</h3>
 
 <img align="right" alt="Coder" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
